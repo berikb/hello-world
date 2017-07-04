@@ -1,2 +1,4 @@
 # hello-world
-Line 1
+<pre><code>
+System.out.println("Hello, World!");
+</code></pre>
